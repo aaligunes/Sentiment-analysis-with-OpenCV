@@ -1,0 +1,8 @@
+kiþinin duygu analizi:
+Angry: 0
+Disgust: 0
+Fear: 0
+Surprise: 0
+Sad: 0
+Happy: 263
+Neutral: 94

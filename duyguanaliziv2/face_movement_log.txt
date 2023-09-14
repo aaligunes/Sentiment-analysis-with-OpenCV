@@ -1,0 +1,5 @@
+Kişinin kafa hareketi bilgileri:
+Sola: 139
+Saga: 134
+Yukari: 124
+Asagi: 122

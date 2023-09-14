@@ -1,0 +1,5 @@
+Kiþinin göz hareketi bilgileri:
+Sola: 695
+Saga: 635
+Yukari: 637
+Asagi: 691
